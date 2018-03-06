@@ -39,6 +39,7 @@
                 <td style="border: 1px black solid">B03 Kolom 8</td>
                 <td style="border: 1px black solid">B03 Kolom 9</td>
                 <td style="border: 1px black solid">B03 Kolom 10</td>
+                
             </tr>
             
             
