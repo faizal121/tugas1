@@ -1,2 +1,4 @@
 # Tugas 1
-Tentanf HTML5
+Tentang HTML5
+cara membuat table sederhana menggunakan tag/kode
+by: faizal cahya iwanarta
